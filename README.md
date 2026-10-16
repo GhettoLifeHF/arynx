@@ -84,8 +84,6 @@ ARYNX загружает необходимые Xray, sing-box и Wintun авт�
 
 ## Основа проекта
 
-C# · .NET 8 · WPF · WebView2 · HTML / CSS / JavaScript.
-
 На базе [Xray-core](https://github.com/XTLS/Xray-core), [sing-box](https://github.com/SagerNet/sing-box) и [Wintun](https://www.wintun.net/).
 
 ---
