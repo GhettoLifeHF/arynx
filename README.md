@@ -13,6 +13,7 @@
 </p>
 
 <p>
+  <a href="https://github.com/GhettoLifeHF/arynx/releases">Скачать</a> ·
   <a href="#features">Возможности</a> ·
   <a href="#protocols">Протоколы</a> ·
   <a href="#discord">Discord SOCKS5</a> ·
